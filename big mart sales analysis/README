@@ -1,0 +1,6 @@
+The Big Mart Sales Analysis project looks at data about items sold in Big Mart stores. The data includes details like the weight of the items, fat content, visibility on shelves, type of item, and their maximum retail price. It also includes information about the stores, such as when they were opened, their size, location type, and outlet type. The main focus is on the item outlet sales, which shows how much of each item was sold in each store.
+
+To study this data, different SQL methods were used. Joins help combine data from different tables. Window functions let us do calculations on specific parts of the data. Subqueries allow us to get data based on conditions from other tables. Group by is used to group data based on a column, and aggregate functions help to calculate things like totals and averages for each group.
+
+By using these SQL tools, the project found helpful insights that can support better decisions in sales planning, managing stock, and running the stores more efficiently.
+
